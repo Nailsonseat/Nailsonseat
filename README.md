@@ -121,4 +121,4 @@
 
 ## Commits
 
-![snake gif](https://github.com/Nailsonseat/Nailsonseat/blob/output/github-contribution-grid-snake.gif)
+![Snake gif](https://raw.githubusercontent.com/Nailsonseat/Nailsonseat/output/github-contribution-grid-snake.svg)
