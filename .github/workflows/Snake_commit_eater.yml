@@ -1,6 +1,6 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: Generate Snake
+name: Snake Commit Eater
 
 # Controls when the action will run. This action runs every 6 hours.
 
@@ -22,7 +22,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3.4.0
 
       # Generates the snake
       - uses: Platane/snk@master
@@ -44,7 +44,7 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           # the output branch we mentioned above
           target_branch: output
