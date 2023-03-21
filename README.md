@@ -16,7 +16,7 @@
 
 <!-- Trophies in a single row with margin using flexbox -->
 <div style="display: flex; justify-content: center; margin-bottom: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nailsonseat&theme=onedark&column=8&" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nailsonseat&theme=algolia&column=8" width="100%">
 </div>
 
 ## Languages
@@ -118,3 +118,7 @@
   <img src = "assets/tools-framework-badges/android-studio.svg" height="48" alt="Android Studio">
   </a>
 </div>
+
+## Commits
+
+![snake gif](https://github.com/Nailsonseat/Nailsonseat/blob/output/github-contribution-grid-snake.gif)
