@@ -4,19 +4,19 @@
 </p>
 
 <!-- Github stats and streak side-by-side with equal height and margin using flexbox -->
-<div style="display: flex; justify-content: center; align-items: stretch; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nailsonseat&show_icons=true&theme=vue-dark" style="margin-right: 10px;" width="50%">
-  <img src="https://streak-stats.demolab.com?user=Nailsonseat&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" style="margin-left: 10px;" width="50%">
+<div style="display: flex; align-items: stretch; margin-bottom: 20px; ">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nailsonseat&show_icons=true&theme=vue-dark&hide_border=true" style="margin-right: 10px;" width="49%">
+  <img src="https://streak-stats.demolab.com?user=Nailsonseat&theme=vue-dark&date_format=j%20M%5B%20Y%5D&hide_border=true" style="margin-left: 10px;" width="50%">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: stretch; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailsonseat&layout=compact&theme=vue-dark&hide=Makefile,CMake,PHP,C,tcl,Hack,TypeScript&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailsonseat&layout=compact&theme=vue-dark&hide=Makefile,CMake,PHP,C,tcl,Hack,TypeScript&langs_count=8&hide_border=true">
 </div>
 
 
 <!-- Trophies in a single row with margin using flexbox -->
 <div style="display: flex; justify-content: center; margin-bottom: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nailsonseat&theme=onedark&column=8" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nailsonseat&theme=onedark&column=8&" width="100%">
 </div>
 
 ## Languages
