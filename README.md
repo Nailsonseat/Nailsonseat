@@ -16,7 +16,7 @@
 
 <!-- Trophies in a single row with margin using flexbox -->
 <div style="display: flex; justify-content: center; margin-bottom: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nailsonseat&theme=algolia&column=8" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nailsonseat&theme=algolia&column=8&row=1" width="100%">
 </div>
 
 ## Languages
